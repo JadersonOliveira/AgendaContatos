@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1511155289 source:c:\users\jaderson\documents\agendacontatos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cadastro.h>
+	<string.h>
+
+1511147671 source:c:\users\jaderson\documents\agendacontatos\src\cadastro.cpp
+	"cadastro.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511152729 c:\users\jaderson\documents\agendacontatos\include\cadastro.h
+	<telefone.h>
+	<stdio.h>
+	<endereco.h>
+	<verificar.h>
+
+1510329675 source:c:\users\jaderson\documents\agendacontatos\src\endereco.cpp
+	"endereco.h"
+
+1510415309 c:\users\jaderson\documents\agendacontatos\include\endereco.h
+
+1510329699 source:c:\users\jaderson\documents\agendacontatos\src\telefone.cpp
+	"telefone.h"
+
+1510415311 c:\users\jaderson\documents\agendacontatos\include\telefone.h
+
+1512660800 source:c:\users\jaderson\desktop\agendacontatos\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<cadastro.h>
+	<string.h>
+	<vector>
+	<conio.h>
+	<string.h>
+
+1512659953 c:\users\jaderson\desktop\agendacontatos\include\cadastro.h
+	<telefone.h>
+	<stdio.h>
+	<endereco.h>
+	<verificar.h>
+
+1511956518 c:\users\jaderson\desktop\agendacontatos\include\telefone.h
+
+1511956518 c:\users\jaderson\desktop\agendacontatos\include\endereco.h
+
+1512660897 source:c:\users\jaderson\desktop\agendacontatos\src\cadastro.cpp
+	"cadastro.h"
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511956522 source:c:\users\jaderson\desktop\agendacontatos\src\endereco.cpp
+	"endereco.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511956522 source:c:\users\jaderson\desktop\agendacontatos\src\telefone.cpp
+	"telefone.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1510338117 c:\users\jaderson\desktop\agendacontatos\include\adicionar.h
+	<cadastro.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511956520 c:\users\jaderson\desktop\agendacontatos\include\verificar.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1510437674 source:c:\users\jaderson\desktop\agendacontatos\src\verificar.cpp
+	"verificar.h"
+
+1510437764 c:\users\jaderson\documents\agendacontatos\include\verificar.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511985248 source:c:\users\labinfo\desktop\agendacontatos\src\cadastro.cpp
+	"cadastro.h"
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511984745 c:\users\labinfo\desktop\agendacontatos\include\cadastro.h
+	<telefone.h>
+	<stdio.h>
+	<endereco.h>
+	<verificar.h>
+
+1511944608 c:\users\labinfo\desktop\agendacontatos\include\telefone.h
+
+1511944608 c:\users\labinfo\desktop\agendacontatos\include\endereco.h
+
+1511944610 c:\users\labinfo\desktop\agendacontatos\include\verificar.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511944612 source:c:\users\labinfo\desktop\agendacontatos\src\endereco.cpp
+	"endereco.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511944612 source:c:\users\labinfo\desktop\agendacontatos\src\telefone.cpp
+	"telefone.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511985213 source:c:\users\labinfo\desktop\agendacontatos\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<cadastro.h>
+	<string.h>
+	<vector>
+	<conio.h>
+	<string.h>
+
+1511785648 source:c:\users\jadson\downloads\agendacontatos\src\cadastro.cpp
+	"cadastro.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511785644 c:\users\jadson\downloads\agendacontatos\include\cadastro.h
+	<telefone.h>
+	<stdio.h>
+	<endereco.h>
+	<verificar.h>
+
+1511785644 c:\users\jadson\downloads\agendacontatos\include\telefone.h
+
+1511785644 c:\users\jadson\downloads\agendacontatos\include\endereco.h
+
+1511785646 c:\users\jadson\downloads\agendacontatos\include\verificar.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511785650 source:c:\users\jadson\downloads\agendacontatos\src\endereco.cpp
+	"endereco.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511785650 source:c:\users\jadson\downloads\agendacontatos\src\telefone.cpp
+	"telefone.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1511966142 source:c:\users\jadson\downloads\agendacontatos\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<cadastro.h>
+	<string.h>
+	<vector>
+	<conio.h>
+	<string.h>
+
